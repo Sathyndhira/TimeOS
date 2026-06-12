@@ -1,0 +1,15 @@
+.closebutton {
+    cursor: pointer;
+    top: 0px;
+    left: 10px;
+    position: absolute;
+}
+
+.window {
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7);
+}
